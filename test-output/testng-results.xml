@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-28T16:14:04 IST" name="Suite" finished-at="2022-02-28T16:14:15 IST" duration-ms="10876">
+    <groups>
+    </groups>
+    <test started-at="2022-02-28T16:14:04 IST" name="Test" finished-at="2022-02-28T16:14:15 IST" duration-ms="10876">
+      <class name="com.Bank.TestCase.TC_02_DashboardPage">
+        <test-method is-config="true" signature="preConditions()[pri:0, instance:com.Bank.TestCase.TC_02_DashboardPage@5d534f5d]" started-at="2022-02-28T16:14:04 IST" name="preConditions" finished-at="2022-02-28T16:14:13 IST" duration-ms="8492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preConditions -->
+        <test-method signature="verifyDahsboard()[pri:0, instance:com.Bank.TestCase.TC_02_DashboardPage@5d534f5d]" started-at="2022-02-28T16:14:13 IST" name="verifyDahsboard" finished-at="2022-02-28T16:14:14 IST" duration-ms="1483" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDahsboard -->
+      </class> <!-- com.Bank.TestCase.TC_02_DashboardPage -->
+      <class name="com.Bank.TestCase.TC_03_TranscationPage">
+        <test-method is-config="true" signature="preConditions()[pri:0, instance:com.Bank.TestCase.TC_03_TranscationPage@17497425]" started-at="2022-02-28T16:14:04 IST" name="preConditions" finished-at="2022-02-28T16:14:13 IST" duration-ms="8492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preConditions -->
+        <test-method signature="verifyTranscations()[pri:0, instance:com.Bank.TestCase.TC_03_TranscationPage@17497425]" started-at="2022-02-28T16:14:13 IST" name="verifyTranscations" finished-at="2022-02-28T16:14:14 IST" duration-ms="1873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTranscations -->
+      </class> <!-- com.Bank.TestCase.TC_03_TranscationPage -->
+      <class name="com.Bank.TestCase.TC_04_DepositePage">
+        <test-method is-config="true" signature="preConditions()[pri:0, instance:com.Bank.TestCase.TC_04_DepositePage@70e9c95d]" started-at="2022-02-28T16:14:04 IST" name="preConditions" finished-at="2022-02-28T16:14:13 IST" duration-ms="8492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preConditions -->
+        <test-method signature="verifyDeposite()[pri:0, instance:com.Bank.TestCase.TC_04_DepositePage@70e9c95d]" started-at="2022-02-28T16:14:13 IST" name="verifyDeposite" finished-at="2022-02-28T16:14:15 IST" duration-ms="2349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDeposite -->
+      </class> <!-- com.Bank.TestCase.TC_04_DepositePage -->
+      <class name="com.Bank.TestCase.TC_05_WithdrawalPage">
+        <test-method is-config="true" signature="preConditions()[pri:0, instance:com.Bank.TestCase.TC_05_WithdrawalPage@4d5650ae]" started-at="2022-02-28T16:14:04 IST" name="preConditions" finished-at="2022-02-28T16:14:13 IST" duration-ms="8476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preConditions -->
+        <test-method signature="verifyWithdrawal()[pri:0, instance:com.Bank.TestCase.TC_05_WithdrawalPage@4d5650ae]" started-at="2022-02-28T16:14:13 IST" name="verifyWithdrawal" finished-at="2022-02-28T16:14:14 IST" duration-ms="1914" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWithdrawal -->
+      </class> <!-- com.Bank.TestCase.TC_05_WithdrawalPage -->
+      <class name="com.Bank.TestCase.TC_01_LoginPage">
+        <test-method is-config="true" signature="preConditions()[pri:0, instance:com.Bank.TestCase.TC_01_LoginPage@2e3967ea]" started-at="2022-02-28T16:14:04 IST" name="preConditions" finished-at="2022-02-28T16:14:12 IST" duration-ms="8413" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preConditions -->
+        <test-method signature="verifyLogin()[pri:0, instance:com.Bank.TestCase.TC_01_LoginPage@2e3967ea]" started-at="2022-02-28T16:14:12 IST" name="verifyLogin" finished-at="2022-02-28T16:14:14 IST" duration-ms="1070" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+      </class> <!-- com.Bank.TestCase.TC_01_LoginPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
